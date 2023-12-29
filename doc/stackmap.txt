@@ -1,0 +1,12 @@
+===============================================================================
+                                                                 *stackmap.nivm*
+This plugin helps you to push a bunch of maps on some events. And then pop them
+when you are done with said event. See examples below:
+
+                                                               *stackmap.push()*
+stackmap.push({name}, {mode}, {mappings})
+
+    Push the {name} mappings for a particular {mode}. Mappings should be a key
+    value pair of {lhs = rhs, ...}.
+
+vim:tw=78:ts=8:ft=help:norl:

@@ -1,0 +1,2 @@
+stackmap.nivm	stackmap.txt	/*stackmap.nivm*
+stackmap.push()	stackmap.txt	/*stackmap.push()*
